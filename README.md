@@ -6,15 +6,17 @@
  
   [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=CHANGE,+IS+INEVITABLE.;GROWTH,+IS+OPTIONAL)](https://git.io/typing-svg)
    <img align='right' src="https://media2.giphy.com/media/w0Fy3hcQuZxxQgo0KR/giphy.gif" width="100" height="100" >
-
-<h2><p align="center"><b>## 🌐 Socials:</b><h2></p>
-  <hr></p>
+   
+   
+   
+## 🌐CONTACT MY THROUGH:
   
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&align=centre)](https://instagram.com/_.harinuu) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&align=centre)](https://linkedin.com/in/harini-m)
   
-<h2><p align="center"><b>💻 Tech Stack::</b><h2></p>
-  <hr></p>  
+
+
+## 💻 LANGUAGES KNOWN:
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
@@ -25,8 +27,7 @@
 
 
 
-<h2><p align="center"><b>💻 I WORK WITH:</b><h2></p>
-  <hr></p> 
+## 💻 I WORK WITH: 
 
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white&align"centre") 
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white&align=centre) 
@@ -39,33 +40,29 @@
 
 
 
-<h2><p align="center"><b>💻 I WORK WITH:</b><h2></p>
-  <hr></p> 
+## 💻 DATABASE: 
   
   
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-<h2><p align="center"><b>💻 I DESIGN:</b><h2></p>
-  <hr></p> 
-
+## 💻 I DESIGN:
 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) 
 
 
-<h2><p align="center"><b>💻 I WORK WITH:</b><h2></p>
-  <hr></p> 
+## 💻 LIBRARIES:
   
   
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
-# 📊 GitHub Stats:
+## 📊 STATS:
 ![](https://github-readme-stats.vercel.app/api?username=HariniMaruthasalam&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=HariniMaruthasalam&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=HariniMaruthasalam&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
+## 🏆TROPHIES:
 ![](https://github-profile-trophy.vercel.app/?username=HariniMaruthasalam&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ QOUTES
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
