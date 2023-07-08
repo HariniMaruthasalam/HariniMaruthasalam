@@ -14,7 +14,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=CHANGE,+IS+INEVITABLE.;GROWTH,+IS+OPTIONAL)](https://git.io/typing-svg)
    <img align='right' src="https://media2.giphy.com/media/w0Fy3hcQuZxxQgo0KR/giphy.gif" width="100" height="100" >
    
- <hr>  
+<hr style="border-top: dotted;">
+ 
 <div align="center">   
 𝑳𝒆𝒕𝒔 𝒄𝒐𝒏𝒏𝒆𝒄𝒕 𝒕𝒉𝒓𝒐𝒖𝒈𝒉
   
