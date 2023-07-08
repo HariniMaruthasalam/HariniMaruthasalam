@@ -1,4 +1,8 @@
-<h2><p align="center"><b>Hi there 👋,  <i>Myself Harini M!</i></b><h2></p>
+
+[![](https://visitcount.itsvg.in/api?id=HariniMaruthasalam&icon=0&color=0)](https://visitcount.itsvg.in)
+---
+
+<h2><p align="center"><b> 𝑯𝒐𝒍𝒍𝒂!! <i>𝑰𝒄𝒉 𝑩𝒊𝒏 𝑯𝒂𝒓𝒊𝒏𝒊 𝑴</i></b><h2></p>
   <hr></p>
 
 <p align="center">
@@ -64,7 +68,8 @@
 
 <div align="center">
 𝑩𝒊𝒈 𝑫𝒂𝒕𝒂 𝑻𝒆𝒄𝒉𝒏𝒐𝒍𝒐𝒈𝒊𝒆𝒔
-![Hadoop](https://img.shields.io/badge/Hadoop-%23FF652F.svg?style=for-the-badge&logo=Apache%20Hadoop&logoColor=white)
+
+  ![Hadoop](https://img.shields.io/badge/Hadoop-%23FF652F.svg?style=for-the-badge&logo=Apache%20Hadoop&logoColor=white)
 ![Spark](https://img.shields.io/badge/Spark-%23E25A1C.svg?style=for-the-badge&logo=Apache%20Spark&logoColor=white)
 
 </div>
