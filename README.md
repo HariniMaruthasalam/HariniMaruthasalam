@@ -1,4 +1,7 @@
 
+![Digital-Marketing-Write-For-Us](https://github.com/HariniMaruthasalam/HariniMaruthasalam/assets/114240304/fd48ac41-5ce3-4151-8319-ca1ddda9a9b6)
+
+
 [![](https://visitcount.itsvg.in/api?id=HariniMaruthasalam&icon=0&color=0)](https://visitcount.itsvg.in)
 ---
 
@@ -85,9 +88,8 @@
 <div align="center">
 𝑪𝒉𝒆𝒄𝒌 𝑴𝒚 𝑾𝒐𝒓𝒌𝒔
 
-[Kaggle](https://www.kaggle.com/harinuu)
+[![Kaggle](https://img.shields.io/badge/Kaggle-%2320BEFF.svg?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/harinuu) [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HariniMaruthasalam)
 
-[GitHub](https://github.com/HariniMaruthasalam)
 
 </div>
 
@@ -114,8 +116,4 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 </div>
-
-
----
-[![](https://visitcount.itsvg.in/api?id=HariniMaruthasalam&icon=0&color=0)](https://visitcount.itsvg.in)
 
