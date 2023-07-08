@@ -2,12 +2,12 @@
 [![](https://visitcount.itsvg.in/api?id=HariniMaruthasalam&icon=0&color=0)](https://visitcount.itsvg.in)
 ---
 
-<h2><p align="center"><b> 𝑯𝒐𝒍𝒍𝒂!! <i>𝑰𝒄𝒉 𝑩𝒊𝒏 𝑯𝒂𝒓𝒊𝒏𝒊 𝑴</i></b><h2></p>
+<h2><p align="center"><b> 🙋‍♀️𝑯𝒐𝒍𝒍𝒂!! 𝑰𝒄𝒉 𝑩𝒊𝒏 𝑯𝒂𝒓𝒊𝒏𝒊 𝑴</b><h2></p>
   <hr></p>
 
 <p align="center">
- 𝖵𝗂𝖼𝖾 𝖯𝗋𝖾𝗌𝗂𝖽𝖾𝗇𝗍 𝖨𝖦𝖭𝖨𝖳𝖱𝖱𝖮𝖭 𝖪𝖯𝖱𝖨𝖤𝖳 <br> 𝖢𝗈𝗋𝖾: 𝖬𝖺𝖼𝗁𝗂𝗇𝖾 𝗅𝖾𝖺𝗋𝗇𝗂𝗇𝗀 & 𝖣𝖾𝖾𝗉 𝗅𝖾𝖺𝗋𝗇𝗂𝗇𝗀 <br> 𝖥𝗈𝗋𝗍𝗁𝖼𝗈𝗆𝗂𝗇𝗀 𝖣𝖺𝗍𝖺 𝗌𝖼𝗂𝖾𝗇𝗍𝗂𝗌𝗍 <br> 𝖢𝗈𝗆𝗉𝗎𝗍𝖾𝗋 𝖲𝖼𝗂𝖾𝗇𝖼𝖾 𝖤𝗇𝗀𝗂𝗇𝖾𝖾𝗋 [𝖪𝖯𝖱𝖨𝖤𝖳]
-<br> 𝖪𝖠𝖦𝖦𝖫𝖤 𝖬𝖺𝗌𝗍𝖾𝗋 <𝖻𝗋>
+ 🍁𝖵𝗂𝖼𝖾 𝖯𝗋𝖾𝗌𝗂𝖽𝖾𝗇𝗍 𝖨𝖦𝖭𝖨𝖳𝖱𝖱𝖮𝖭 𝖪𝖯𝖱𝖨𝖤𝖳 <br> 🍁𝖢𝗈𝗋𝖾: 𝖬𝖺𝖼𝗁𝗂𝗇𝖾 𝗅𝖾𝖺𝗋𝗇𝗂𝗇𝗀 & 𝖣𝖾𝖾𝗉 𝗅𝖾𝖺𝗋𝗇𝗂𝗇𝗀 <br> 🍁𝖥𝗈𝗋𝗍𝗁𝖼𝗈𝗆𝗂𝗇𝗀 𝖣𝖺𝗍𝖺 𝗌𝖼𝗂𝖾𝗇𝗍𝗂𝗌𝗍 <br> 🍁𝖢𝗈𝗆𝗉𝗎𝗍𝖾𝗋 𝖲𝖼𝗂𝖾𝗇𝖼𝖾 𝖤𝗇𝗀𝗂𝗇𝖾𝖾𝗋 [𝖪𝖯𝖱𝖨𝖤𝖳]
+<br> 🍁𝖪𝖠𝖦𝖦𝖫𝖤 𝖬𝖺𝗌𝗍𝖾𝗋 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=CHANGE,+IS+INEVITABLE.;GROWTH,+IS+OPTIONAL)](https://git.io/typing-svg)
    <img align='right' src="https://media2.giphy.com/media/w0Fy3hcQuZxxQgo0KR/giphy.gif" width="100" height="100" >
